@@ -46,8 +46,7 @@ They exist to ensure a friendly, respectful, and balanced environment for all pl
 
 ### Special Blocks and Structures
 
-- **PCs, healing machines, and waystones** are essential for everyone: **do not break or loot them**.
-- Every player should be able to progress at their own pace.
+- **PCs, healing machines, and waystones** are essential for everyone: **do not break or loot them**. Every player should be able to progress at their own pace.
 
 ### Farms and Resources
 
