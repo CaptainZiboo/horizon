@@ -27,6 +27,10 @@ export default defineConfig({
             text: 'Rules',
             link: '/en/rules',
           },
+          {
+            text: 'Installation',
+            link: '/en/install',
+          },
         ],
       },
     },
@@ -45,6 +49,10 @@ export default defineConfig({
           {
             text: 'Règlement',
             link: '/fr/rules',
+          },
+          {
+            text: 'Installation',
+            link: '/fr/install',
           },
         ],
       },

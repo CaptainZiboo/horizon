@@ -13,13 +13,8 @@ watchEffect(() => {
 onMounted(() => {
   if (!inBrowser) return;
   const path = window.location.pathname;
-  if (
-    path === '/' ||
-    path === '/index.html' ||
-    path === '/horizon/' ||
-    path === '/horizon/index.html'
-  ) {
-    window.location.replace('/en/');
+  if (path === '/horizon/' || path === '/horizon/index.html') {
+    window.location.replace('/horizon/en/');
   }
 });
 </script>
