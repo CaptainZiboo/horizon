@@ -1,79 +1,81 @@
+---
+title: 'Règlement'
+---
+
 # 📜 Règlement de l’Académie
 
 Bienvenue à l’**Académie** !  
-Avant de débuter ton aventure, merci de prendre connaissance des règles suivantes.  
-Elles sont là pour garantir une ambiance agréable, respectueuse et équilibrée pour tous les joueurs.
+Avant de commencer ton aventure, merci de lire attentivement ce règlement.  
+Il vise à garantir une ambiance agréable, respectueuse et équilibrée pour tous les joueurs.
 
 ## 🏛️ 1. Règlement de la communauté (Discord & général)
 
-### 🎭 Respect et comportement
+### Respect et comportement
 
-- Le respect d’autrui est **la règle d’or** : toute toxicité, insulte gratuite ou comportement agressif est proscrit.
-- Les taquineries et blagues entre amis sont tolérées **uniquement si toutes les personnes concernées sont à l’aise**.
-- Harcèlement, propos discriminatoires (racisme, sexisme, etc.) : **tolérance zéro**.  
-  _On peut rire de tout… mais pas avec n’importe qui._
+- Le respect d’autrui est **la règle d’or** : aucune insulte, toxicité ou comportement agressif n’est toléré.
+- Les plaisanteries sont acceptées **uniquement si toutes les personnes concernées y consentent**.
+- Harcèlement, propos discriminatoires (racisme, sexisme, etc.) : **tolérance zéro**.
 
-### 💬 Communication
+### Communication
 
-- Pas de spam, flood, publicité ou mentions abusives.
-- Contenus NSFW, politiques, religieux ou sensibles : interdits.
-- Les discussions doivent rester dans le bon salon (le staff est là pour guider si besoin).
+- Pas de spam, publicité, flood ou mentions abusives.
+- Les contenus NSFW, politiques, religieux ou sensibles sont interdits.
+- Les discussions doivent se faire dans les salons appropriés.
 
-### 🛡️ Modération et sanctions
+### Modération et sanctions
 
-- Le staff se réserve le droit d’intervenir à tout moment pour préserver la bonne ambiance.
-- Les sanctions (avertissement, mute, expulsion, bannissement) seront appliquées **selon la gravité des actes**.
-- Si tu estimes avoir été sanctionné injustement, ouvre un ticket au **Centre d’Aide** pour en discuter.
+- Le staff peut intervenir à tout moment pour préserver la bonne ambiance.
+- Les sanctions (avertissement, mute, expulsion, bannissement) dépendent **de la gravité des faits**.
+- En cas de sanction jugée injuste, ouvre un ticket au **Centre d’Aide** pour en discuter.
 
 ## 🎮 2. Règlement du serveur Minecraft
 
-### 🤝 Respect en jeu
+### Respect en jeu
 
-- Comme sur Discord, le respect entre joueurs est **obligatoire**.
+- Le respect entre joueurs est **obligatoire**, comme sur Discord.
 - Pas de grief, de vol ni de destruction volontaire des constructions d’autrui.
-- Le PvP est interdit **sauf si consenti par les deux joueurs** ou dans un cadre officiel (tournoi, event).
+- Le PvP est interdit **sauf accord entre les joueurs** ou lors d’événements officiels.
 
-### ⚒️ Utilisation du serveur
+### Utilisation du serveur
 
-- Toute tentative de triche, duplication, glitch ou modification interdite du client est proscrite.
-- Les bugs rencontrés doivent être signalés via le **Centre d’Aide**.
-- Merci de ne pas surcharger inutilement les chunks (machines, spawners, etc.) afin de préserver les performances du serveur.
+- Toute triche, duplication, glitch ou modification non autorisée du client est interdite.
+- Les bugs doivent être signalés via le **Centre d’Aide**.
+- Évite de surcharger les chunks (machines, spawners, etc.) pour préserver les performances.
 
-## 🌍 3. Règles de Gameplay
+## 🌍 3. Règles de gameplay
 
-### 🧰 Blocs et structures spéciales
+### Blocs et structures spéciales
 
-- Les **PC, machines de soin et waystones** sont essentiels à tous.  
-  → Il est **strictement interdit** de les casser ou de les looter.
-- Chaque joueur doit pouvoir progresser à son rythme sans être pénalisé.
+- Les **PC, machines de soin et waystones** sont essentiels à tous : **interdiction de les casser ou de les looter**.
+- Chacun doit pouvoir progresser à son rythme sans être pénalisé.
 
-### 🌾 Farms et ressources
+### Farms et ressources
 
-- Les **farms et pâturages** ne sont pas limités par joueur ou par équipe.
-- Les **farms automatisées** sont interdites pour préserver les performances et l’équilibre du serveur.
-- Évitez la surexploitation d’une même zone (minerais, ressources naturelles).
+- Les **farms et pâturages** ne sont pas limités par joueur ou équipe.
+- Les **farms automatisées** sont interdites pour préserver l’équilibre et les performances.
+- Évite la surexploitation d’une même zone (minerais, ressources naturelles).
 
-### 🏠 Bases et structures
+### Bases et constructions
 
-- Les **structures générées** (centres Pokémon, villages, etc.) peuvent être utilisées temporairement.
-- Il est interdit d’y établir une **base permanente** : construisez vos propres lieux de vie !
+- Les **structures générées** (villages, centres Pokémon, etc.) peuvent être utilisées temporairement.
+- Il est interdit d’y établir une **base permanente** : construis ton propre espace.
 
-### 🪓 Respect du monde
+### Respect du monde
 
-- Pas de grief : ne détruisez pas les constructions des autres.
-- Pas d’arbres flottants, de trous dangereux ou de constructions abandonnées.
-- Les **projets collectifs** (routes, bâtiments communs, zones publiques) doivent être respectés.
+- Pas de grief ni de destruction de constructions d’autres joueurs.
+- Évite les arbres flottants, trous dangereux et constructions abandonnées.
+- Les **projets collectifs** (routes, zones publiques, bâtiments communs) doivent être respectés.
 
-### ⚔️ Interactions entre joueurs
+### Interactions entre joueurs
 
-- Le **PvP sauvage** est interdit : seulement si consenti ou en event.
+- Le **PvP sauvage** est interdit : seulement si consenti ou en événement.
 - Les **Pokémon rares/légendaires** appartiennent au joueur qui les a repérés en premier.
-- Les échanges entre joueurs doivent être **équilibrés et honnêtes**. Les arnaques sont interdites.
+- Les échanges doivent être **équilibrés et honnêtes**. Aucune arnaque n’est tolérée.
 
-### 🌐 Équilibre et performance
+### Équilibre et performance
 
-- Pas de machines ou de redstone massives qui nuiraient aux performances.
-- Les **fermes à mobs** doivent être raisonnables.
-- Toute utilisation de glitch ou duplication est strictement interdite.
+- Pas de machines ou systèmes redstone massifs nuisant au serveur.
+- Les **fermes à mobs** doivent rester raisonnables.
+- Toute duplication, glitch ou triche est strictement interdite.
 
-⚖️ _En rejoignant le serveur, tu t’engages à respecter ce règlement et à contribuer à une atmosphère conviviale, immersive et bienveillante._
+_En rejoignant l’Académie, tu acceptes de respecter ce règlement et de contribuer à une atmosphère bienveillante, immersive et conviviale._

@@ -1,79 +1,81 @@
+---
+title: 'Rules'
+---
+
 # 📜 Academy Rules
 
 Welcome to the **Academy**!  
-Before starting your adventure, please take a moment to read the following rules.  
-They exist to ensure a friendly, respectful, and balanced atmosphere for all players.
+Before starting your adventure, please read these rules carefully.  
+They exist to ensure a friendly, respectful, and balanced environment for all players.
 
 ## 🏛️ 1. Community Rules (Discord & General)
 
-### 🎭 Respect & Behavior
+### Respect and Behavior
 
-- Respect for others is **the golden rule**: any toxicity, insults, or aggressive behavior are forbidden.
-- Friendly teasing is tolerated **only if everyone involved is comfortable**.
-- Harassment or discriminatory remarks (racism, sexism, etc.): **zero tolerance**.  
-  _You can joke about everything… but not with everyone._
+- Respect is **the golden rule**: no toxicity, insults, or aggressive behavior.
+- Jokes are fine **only if everyone involved agrees**.
+- Harassment or discriminatory remarks (racism, sexism, etc.) are met with **zero tolerance**.
 
-### 💬 Communication
+### Communication
 
-- No spam, flooding, advertising, or mention abuse.
+- No spam, flooding, advertising, or excessive mentions.
 - NSFW, political, religious, or sensitive content is forbidden.
-- Keep discussions in the correct channel (staff will guide if needed).
+- Keep discussions in the appropriate channels.
 
-### 🛡️ Moderation & Sanctions
+### Moderation and Sanctions
 
-- Staff reserves the right to intervene at any time to maintain a positive atmosphere.
-- Sanctions (warning, mute, kick, ban) will be applied **depending on the severity of the actions**.
-- If you believe you were punished unfairly, open a ticket in the **Help Center** to discuss it.
+- Staff may intervene at any time to maintain a positive atmosphere.
+- Sanctions (warning, mute, kick, ban) depend **on the severity of the actions**.
+- If you believe you were punished unfairly, open a ticket in the **Help Center**.
 
 ## 🎮 2. Minecraft Server Rules
 
-### 🤝 In-Game Respect
+### In-Game Respect
 
-- Just like on Discord, respect between players is **mandatory**.
-- No griefing, stealing, or destroying others’ builds.
-- PvP is forbidden **unless both players consent** or in official events/tournaments.
+- Respect between players is **mandatory**, as on Discord.
+- No griefing, stealing, or intentional destruction of others’ builds.
+- PvP is forbidden **unless both players consent** or during official events.
 
-### ⚒️ Server Usage
+### Server Usage
 
-- Any attempt to cheat, duplicate, glitch, or use unauthorized client modifications is forbidden.
-- Report any bugs via the **Help Center**.
-- Please avoid overloading chunks (machines, spawners, etc.) to maintain good server performance.
+- Cheating, duplication, glitches, or unauthorized client modifications are forbidden.
+- Report bugs through the **Help Center**.
+- Avoid overloading chunks (machines, spawners, etc.) to keep the server stable.
 
 ## 🌍 3. Gameplay Rules
 
-### 🧰 Special Blocks & Structures
+### Special Blocks and Structures
 
-- **PCs, healing machines, and waystones** are essential for everyone.  
-  → It is **strictly forbidden** to break or loot them.
-- Every player should be able to progress at their own pace without being penalized.
+- **PCs, healing machines, and waystones** are essential for everyone: **do not break or loot them**.
+- Every player should be able to progress at their own pace.
 
-### 🌾 Farms & Resources
+### Farms and Resources
 
 - **Farms and pastures** are not limited per player or team.
-- **Automated farms** are forbidden to preserve server performance and balance.
+- **Automated farms** are forbidden to maintain balance and performance.
 - Avoid overexploiting the same area (ores, natural resources).
 
-### 🏠 Bases & Structures
+### Bases and Builds
 
-- **Generated structures** (Pokémon centers, villages, etc.) can be used temporarily.
-- You cannot establish a **permanent base** there: build your own living spaces!
+- **Generated structures** (villages, Pokémon centers, etc.) can be used temporarily.
+- You may not establish a **permanent base** there — build your own space.
 
-### 🪓 World Respect
+### World Respect
 
-- No griefing: don’t destroy other players’ builds.
-- No floating trees, dangerous holes, or abandoned structures.
-- **Community projects** (roads, public buildings, shared areas) must be respected.
+- No griefing or destroying others’ builds.
+- Avoid floating trees, dangerous holes, or abandoned structures.
+- **Community projects** (roads, public zones, shared builds) must be respected.
 
-### ⚔️ Player Interactions
+### Player Interactions
 
-- **Wild PvP** is forbidden: only allowed if both players agree or during events.
+- **Wild PvP** is forbidden: only allowed by mutual consent or during events.
 - **Rare/legendary Pokémon** belong to the player who spotted them first.
-- Trades between players must be **fair and honest**. Scamming is forbidden.
+- Trades must be **fair and honest**. Scamming is not allowed.
 
-### 🌐 Balance & Performance
+### Balance and Performance
 
-- No massive redstone or machine systems that could harm server performance.
+- Avoid massive redstone or machine systems that harm performance.
 - **Mob farms** must remain reasonable.
-- Any use of glitches or duplication is strictly forbidden.
+- Any use of glitches, duplication, or cheats is strictly forbidden.
 
-⚖️ _By joining the server, you agree to respect these rules and help maintain a friendly, immersive, and welcoming atmosphere._
+_By joining the Academy, you agree to follow these rules and help maintain a welcoming, immersive, and friendly environment._
