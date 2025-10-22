@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/horizon/',
   title: 'Horizon - Wiki',
   description: 'Desc',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
@@ -13,6 +14,7 @@ export default defineConfig({
       themeConfig: {
         socialLinks: [
           { icon: 'github', link: 'https://github.com/captainziboo/horizon' },
+          { icon: 'discord', link: 'https://discord.gg/y95wNdaeXZ' },
         ],
 
         nav: [
