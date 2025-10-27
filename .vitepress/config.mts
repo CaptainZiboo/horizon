@@ -17,12 +17,13 @@ export default defineConfig({
           { icon: 'discord', link: 'https://discord.gg/y95wNdaeXZ' },
         ],
 
-        nav: [
-          { text: 'Home', link: '/en' },
-          { text: 'Rules', link: '/en/rules' },
-        ],
+        nav: [{ text: 'Home', link: '/en' }],
 
         sidebar: [
+          {
+            text: 'Home',
+            link: '/en/',
+          },
           {
             text: 'Rules',
             link: '/en/rules',
@@ -30,6 +31,10 @@ export default defineConfig({
           {
             text: 'Installation',
             link: '/en/install',
+          },
+          {
+            text: 'Connection',
+            link: '/en/connect',
           },
         ],
       },
@@ -40,12 +45,13 @@ export default defineConfig({
       lang: 'fr',
       link: '/fr',
       themeConfig: {
-        nav: [
-          { text: 'Home', link: '/fr' },
-          { text: 'Règlement', link: '/fr/rules' },
-        ],
+        nav: [{ text: 'Accueil', link: '/fr' }],
 
         sidebar: [
+          {
+            text: 'Accueil',
+            link: '/fr/',
+          },
           {
             text: 'Règlement',
             link: '/fr/rules',
@@ -53,6 +59,10 @@ export default defineConfig({
           {
             text: 'Installation',
             link: '/fr/install',
+          },
+          {
+            text: 'Connexion',
+            link: '/fr/connect',
           },
         ],
       },

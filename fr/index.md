@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: '📜 Consulter le règlement'
-      link: /reglement
+      link: /fr/rules
 ---
