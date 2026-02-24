@@ -91,7 +91,7 @@ However, this method carries **a risk of data loss**, especially:
 - Progression on the map
 - Local configuration files
 
-If you choose this option, make sure to **backup your `saves` folder** before reinstalling.
+If you choose this option, make sure to **backup your `journeymap` folder** before reinstalling.
 
 ---
 

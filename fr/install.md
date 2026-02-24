@@ -91,7 +91,7 @@ Cependant, cette méthode comporte **des risques de perte de données**, notamme
 - La progression sur la map
 - Certains fichiers de configuration locaux
 
-Si tu choisis cette option, pense à **sauvegarder ton dossier `saves`** avant toute réinstallation.
+Si tu choisis cette option, pense à **sauvegarder ton dossier `journeymap`** avant toute réinstallation.
 
 ---
 
