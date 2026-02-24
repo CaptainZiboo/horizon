@@ -60,6 +60,45 @@ Une fois l’installation terminée :
 
 ---
 
+## 🔄 5. Mise à jour du Modpack
+
+📅 **Dernière mise à jour :** 24 février 2026
+
+Lorsqu’une nouvelle version du modpack est publiée, deux méthodes sont possibles pour effectuer la mise à jour.
+
+### ✅ Méthode recommandée (Mise à jour sécurisée)
+
+Télécharge le pack de mise à jour ci-dessous :  
+📦 **[Télécharger le Pack de Mise à Jour (fichier .zip)](/update.zip)**
+
+1. Décompresse le fichier `.zip`.
+2. Ouvre le dossier de ton modpack :
+   - CurseForge → Clique sur le modpack → **Ouvrir le dossier**
+3. Copie les fichiers extraits.
+4. Colle-les dans le dossier du modpack en **remplaçant les fichiers si demandé**.
+
+Cette méthode permet de conserver ta configuration et limite fortement les risques de problème.
+
+---
+
+### ⚠️ Méthode alternative (Réinstallation complète)
+
+Il est possible de réinstaller entièrement le modpack via CurseForge.
+
+Cependant, cette méthode comporte **des risques de perte de données**, notamment :
+
+- Les données du monde / de la carte
+- La progression sur la map
+- Certains fichiers de configuration locaux
+
+Si tu choisis cette option, pense à **sauvegarder ton dossier `saves`** avant toute réinstallation.
+
+---
+
+💡 _Nous recommandons fortement d’utiliser la méthode du pack de mise à jour afin d’éviter toute perte de progression._
+
+---
+
 ## ❓ En cas de problème
 
 Si tu rencontres un souci :

@@ -60,6 +60,45 @@ Once installation is complete:
 
 ---
 
+## 🔄 5. Updating the Modpack
+
+📅 **Last Update:** February 24, 2026
+
+When a new version of the modpack is released, you have two ways to update it.
+
+### ✅ Recommended Method (Safe Update)
+
+Download the update pack below:  
+📦 **[Download the Update Pack (.zip file)](/update.zip)**
+
+1. Extract the `.zip` file.
+2. Open your modpack folder:
+   - CurseForge → Click the modpack → **Open Folder**
+3. Copy the extracted files.
+4. Paste them into the modpack folder and **replace files if asked**.
+
+This method keeps your existing configuration and avoids most issues.
+
+---
+
+### ⚠️ Alternative Method (Full Reinstall)
+
+You can reinstall the modpack completely via CurseForge.
+
+However, this method carries **a risk of data loss**, especially:
+
+- World/map data
+- Progression on the map
+- Local configuration files
+
+If you choose this option, make sure to **backup your `saves` folder** before reinstalling.
+
+---
+
+💡 _We strongly recommend using the update pack method to avoid losing progression._
+
+---
+
 ## ❓ Need Help?
 
 If you run into any issues:
